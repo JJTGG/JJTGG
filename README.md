@@ -4,6 +4,7 @@ I think in systems — I'd rather build something I dreamed up myself than execu
 
 ## What I'm working on
 - **[AI Arena](https://github.com/JJTGG/ai-arena)** — a multi-AI comparison platform (bring-your-own-key to start, hosted tiers coming). Built to let people actually compare ChatGPT, Claude, Gemini and more side by side instead of guessing which one's better.
+- **[Trading Tools](https://github.com/JJTGG/trading-tools)** — a decision-support platform for traders: calculators, risk tools, market data, and journaling, built as an independent product under TGG Hub.
 - **[TGG Hub](https://github.com/JJTGG/tgg-hub)** — the umbrella brand tying my projects together.
 
 ## Stack
