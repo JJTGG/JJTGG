@@ -4,13 +4,13 @@ I think in systems, build the ideas that won't leave me alone, and keep pushing 
 
 ## TGG HUB
 
-TGG HUB started as a name for the things I was building. It's becoming the system that connects them.
+TGG HUB is the name behind the things I'm building — products, experiments, and systems that start as ideas and gradually become something real.
 
 ## What I'm building
 
-- **[AI Arena](https://github.com/JJTGG/ai-arena)** — a multi-model AI workspace for putting different models to the same task and seeing how they respond, side by side.
-- **[Trading Tools](https://github.com/JJTGG/trading-tools)** — the space around the trade: calculate the risk, plan the position, record the decision, and learn from what happened.
-- **[TGG HUB](https://github.com/JJTGG/tgg-hub)** — the ecosystem connecting the products and projects I'm building.
+- **[AI Arena](https://github.com/JJTGG/ai-arena)** — a multi-model AI workspace for putting different models to the same task and comparing their responses side by side.
+- **[Trading Tools](https://github.com/JJTGG/trading-tools)** — tools for planning trades, calculating risk, recording decisions, and learning from what happened.
+- **[TGG HUB](https://github.com/JJTGG/tgg-hub)** — the home for the products and projects I'm building under TGG HUB.
 
 ## How I build
 
@@ -20,8 +20,8 @@ Most of what I build starts as an idea, then turns into a system, then gets redu
 
 Next.js · React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS
 
-Alongside APIs, cloud services, payment infrastructure, and whatever else a project actually needs.
+Alongside whatever APIs, cloud services, databases, and infrastructure a project actually needs.
 
 ## Elsewhere
 
-[TGG HUB](https://tgg-hub.vercel.app/) · [Telegram](https://t.me/JAYVORTEX_WEB3) · [𝕏](https://x.com/JAYJAYTGG) · [Email](mailto:kidjayjaytgg@gmail.com)
+[Website](https://jayjaytgg.vercel.app/) · [TGG HUB](https://tgg-hub.vercel.app/) · [GitHub](https://github.com/JJTGG) · [Telegram](https://t.me/JAYVORTEX_WEB3) · [𝕏](https://x.com/JAYJAYTGG) · [Email](mailto:kidjayjaytgg@gmail.com)
